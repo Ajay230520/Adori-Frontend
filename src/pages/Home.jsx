@@ -19,9 +19,9 @@ const Home = () => (
     />
     <GridSection
       items={[
-        { image: 'src/assets/Products/AI Designer-Two-color hooded sweatshirt logo mockup.png', title: 'Luce di Moda', description: 'Illuminate your wardrobe with ultra-light, breathable fabrics that offer a luxurious feel. Designed for effortless elegance and a radiant look.' },
-        { image: 'src/assets/Products/AI Designer-Minimalist sweatshirt _ hoodie _ clothing logo mockup.png', title: 'Stile Unico', description: 'Discover limited-edition pieces with curated patterns and textures, crafted to make a statement. Perfect for those who value unique, artistic fashion.' },
-        { image: 'src/assets/Products/AI Designer-Halloween children wearing T-shirt vi logo mockup renderings.png', title: 'Fresco Urbano', description: 'Bring a fresh, urban edge to your look with modern, breathable materials that balance comfort and style effortlessly.' },
+        { image: 'public/assets/Products/AI Designer-Two-color hooded sweatshirt logo mockup.png', title: 'Luce di Moda', description: 'Illuminate your wardrobe with ultra-light, breathable fabrics that offer a luxurious feel. Designed for effortless elegance and a radiant look.' },
+        { image: 'public/assets/Products/AI Designer-Minimalist baseball cap _ sun hat _ logo mockup.png', title: 'Stile Unico', description: 'Discover limited-edition pieces with curated patterns and textures, crafted to make a statement. Perfect for those who value unique, artistic fashion.' },
+        { image: 'public/assets/Products/AI Designer-Halloween children wearing T-shirt vi logo mockup renderings.png', title: 'Fresco Urbano', description: 'Bring a fresh, urban edge to your look with modern, breathable materials that balance comfort and style effortlessly.' },
       ]}
     />
     <Footer />

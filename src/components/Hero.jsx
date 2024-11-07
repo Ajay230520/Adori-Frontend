@@ -6,7 +6,7 @@ const Hero = () => (
     {/* Background Video */}
     <video
       className="absolute top-0 left-0 w-full h-full object-cover"
-      src="src/assets/Video/Cyberpunk _ Digital Fashion _ Future of Fashion.mp4"
+      src="public/assets/Video/Cyberpunk _ Digital Fashion _ Future of Fashion.mp4"
       autoPlay
       muted
       loop
