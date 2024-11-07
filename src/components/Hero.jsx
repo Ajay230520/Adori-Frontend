@@ -1,12 +1,13 @@
 // src/components/Hero.js
 import React from 'react';
 
+import video from "/assets/Video/Cyberpunk _ Digital Fashion _ Future of Fashion.mp4";
 const Hero = () => (
   <section className="relative h-screen flex items-center justify-center bg-gray-900 text-white overflow-hidden">
     {/* Background Video */}
     <video
       className="absolute top-0 left-0 w-full h-full object-cover"
-      src="public/assets/Video/Cyberpunk _ Digital Fashion _ Future of Fashion.mp4"
+      src={video}
       autoPlay
       muted
       loop
