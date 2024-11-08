@@ -14,3 +14,9 @@
   font-weight: 700;
   font-style: normal;
 }
+
+/* Blink Effect  */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
